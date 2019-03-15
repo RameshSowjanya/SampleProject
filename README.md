@@ -3,7 +3,3 @@ helokke
 3rd commi
 new example
 today is 15-03
-
-f/
-ef/
-de'
